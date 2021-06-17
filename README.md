@@ -1,2 +1,2 @@
 # boostrap-guia-hotelera
-Aprendiendo Boostrap
+Proyecto guia hoteles con Boostrap 4

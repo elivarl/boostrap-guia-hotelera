@@ -19,6 +19,11 @@
   "homepage": "https://github.com/elivarl/boostrap-guia-hotelera#readme",
   "devDependencies": {
     "lite-server": "^2.6.1"
+  },
+  "dependencies": {
+    "boostrap": "^2.0.0",
+    "bootstrap": "^5.0.1",
+    "jquery": "^3.6.0",
+    "popper.js": "^1.16.1"
   }
-
 }
